@@ -1,0 +1,16 @@
+PODS:
+  - MobileFrameworkPOC (1.0.0)
+
+DEPENDENCIES:
+  - MobileFrameworkPOC (from `../MobileFrameworkPOC`)
+
+EXTERNAL SOURCES:
+  MobileFrameworkPOC:
+    :path: "../MobileFrameworkPOC"
+
+SPEC CHECKSUMS:
+  MobileFrameworkPOC: 2b09df0a14b28b0ebb32522912a967494a3c38e2
+
+PODFILE CHECKSUM: 6b091b0321771d93f5b57dab4653219492309d75
+
+COCOAPODS: 1.16.2
